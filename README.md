@@ -14,6 +14,19 @@ Como Developer busco contribuir a construir una realidad más incluyente y a ha
 - Determinación. 
 - Resolución de problemas.
 
+## Tecnologías
+- Javascript
+- HTML
+- CSS
+- React
+- Figma
+- Git
+- Firebase
+- Jest
+- NodeJS
+- Photoshop
+- Ilustrator
+
 <a href="mailto:sthiramyoga@gmail.com">
  <img align="right" alt="Gmail" width="80px" hight="50px" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
