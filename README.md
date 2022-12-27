@@ -29,10 +29,11 @@ Actualmente me desarrollo como Front-End Developer Jr. realizando proyectos prop
 - Determinación. 
 - Resolución de problemas.
 
-### **Contacto**
+
+<div align="center">
 <a href="mailto:sthiramyoga@gmail.com">
  <img align="center" alt="Gmail" width="120px" hight="80px" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/dsoo-caba%C3%B1as-b88a6224b/">
-  <img align="center" alt="Linkedin" width="120px" hight="80px" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+  <img align="center" alt="Linkedin" width="150px" hight="120px" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </a>
