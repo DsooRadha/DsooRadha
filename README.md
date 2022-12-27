@@ -2,9 +2,13 @@
 
 ![githubpresentacion](https://user-images.githubusercontent.com/101679628/199622547-8671ad0f-6aa0-4a6c-924e-6b621747a1da.jpg)
 
-Mi curiosidad y mi gusto por aprender me ha permitido transitar por diversos escenarios y comunidades en que la diversidad y la unidad se manifiestan a la par; espacios donde la determinación, la capacidad de adaptación e improvisación, de reinventarse con el otro, han sido fundamentales.
+Mi curiosidad y mi gusto por aprender me ha permitido transitar por diversos escenarios y comunidades en que la diversidad y la unidad se manifiestan a la par; espacios donde la determinación, la capacidad de adaptación e improvisación, de reinventarse con el otro, han sido fundamentales. Soy aprendiz de por vida.
 
-Como Developer busco contribuir a construir una realidad más incluyente y a hacer de la tecnología una herramienta de resistencia al servicio de todos los seres.
+Como Developer 
+
+Actualmente me desarrollo como Front-End developer jr. Realizando proyectos propios y colaborativos donde pueda aprender nuevas habilidades. Busco contribuir a construir una realidad más incluyente y a hacer de la tecnología una herramienta de resistencia al servicio de todos los seres.
+
+🌱Actualmente me encuentro aprendiendo React.
 
 ## Life Skills
 
@@ -15,17 +19,18 @@ Como Developer busco contribuir a construir una realidad más incluyente y a ha
 - Resolución de problemas.
 
 ## Tecnologías
-- Javascript
-- HTML
-- CSS
-- React
-- Figma
+<img src='https://camo.githubusercontent.com/b4befe54390ddf13216a4b89766f748847cd9240ca756eab2296d3e26da8e2ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465'/><img src='https://camo.githubusercontent.com/683a41e83e2c9f7735dd7fae5ae39b39d2bac48f8e23e4b6f494e8297852e837/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465'/><img src='https://camo.githubusercontent.com/cbb8e4880d4bfab6d65ca222c95492345ecc8020a9c179729f9c35ddd789a632/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145'/>
+<img src='https://camo.githubusercontent.com/9d3c2bc80d0f6c0725a7456e636a7c1d889c489282680e92113c1dd2918d4829/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61726b646f776e2d2532333030303030302e7376673f7374796c653d666c6174266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465'/>
+<img src='https://camo.githubusercontent.com/acb268bf1d57430a028027235b1400cc5669283bc5141ad445eb5d695d1145ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d2532333033394245352e7376673f7374796c653d666c6174266c6f676f3d6669726562617365'/>
+<img src='https://camo.githubusercontent.com/be0341460963bc4ff9b532f9c172cc1a7c68eb299f7aea5d690ed0a24047b1e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642'/>
+<img src='https://camo.githubusercontent.com/1d9020509510ced9a45a1b810b1e4b8b390edf7274c804ca54746e0ffe5be2f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d2532333032364141372e7376673f7374796c653d666c6174266c6f676f3d5472656c6c6f266c6f676f436f6c6f723d7768697465'/>
+<img src='https://camo.githubusercontent.com/84421ab6f4cb2c058f3d1eb19d36ae5298ffa57cc2ea01ba44010e671ecff681/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666c6174266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465'/>
+<img src='https://camo.githubusercontent.com/963e1d4d37546af4913d33d224de4c662a22e5be3d48268f16acf688c90e8d49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61646f626570686f746f73686f702d2532333331413846462e7376673f7374796c653d666c6174266c6f676f3d61646f626570686f746f73686f70266c6f676f436f6c6f723d7768697465'/>
+<img src='https://camo.githubusercontent.com/067265443fa6270cf59946a9aa8f85a70c6cf681866137d459de6405ba54e297/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61646f6265696c6c7573747261746f722d2532334646394130302e7376673f7374796c653d666c6174266c6f676f3d61646f6265696c6c7573747261746f72266c6f676f436f6c6f723d7768697465'/>
+
 - Git
-- Firebase
 - Jest
 - NodeJS
-- Photoshop
-- Ilustrator
 
 <a href="mailto:sthiramyoga@gmail.com">
  <img align="right" alt="Gmail" width="80px" hight="50px" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
